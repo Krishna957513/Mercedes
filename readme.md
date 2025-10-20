@@ -4,7 +4,8 @@
 Each wish is timestamped, publicly visible, and forever stored — a digital time capsule of dreams, hopes, and gratitude.
 
 ---
-
+prove of work
+Image- https://github.com/Krishna957513/Mercedes/blob/main/Screenshot%202025-10-18%20232004.png
 ## 🧩 Smart Contract Overview
 
 **File:** `def.sol`  
